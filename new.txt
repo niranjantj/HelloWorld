@@ -1,0 +1,15 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 9485-E0A2
+
+ Directory of D:\JavaProject
+
+05-04-2018  19:46    <DIR>          .
+05-04-2018  19:46    <DIR>          ..
+24-03-2018  00:37               675 Hello.class
+05-04-2018  18:10               145 hello.java
+24-03-2018  01:38               475 index.html
+05-04-2018  19:46                 0 new.txt
+05-04-2018  18:21    <DIR>          p
+24-03-2018  01:38               427 readme.txt
+               5 File(s)          1,722 bytes
+               3 Dir(s)  21,776,580,608 bytes free
